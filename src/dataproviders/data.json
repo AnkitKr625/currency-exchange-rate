@@ -1,0 +1,9 @@
+{
+  "id": "currency",
+  "label": "Currency",
+  "data": [
+    { "text":"Indian Ruppee", "value": "INR" },
+    { "text":"United States Dollar", "value": "USD" },
+    { "text":"Australian Dollar", "value": "AUD" }
+  ]
+}
